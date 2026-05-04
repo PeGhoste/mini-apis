@@ -1,3 +1,4 @@
+using Inventariado.DAO;
 using Inventariado.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,10 +7,17 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-builder.Services.AddOpenApi();
+//builder.Services.AddOpenApi();
+
+// Agregamos Swagger
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
 // Agregamos la inyección de dependencias para el servicio de bitácora
 builder.Services.AddSingleton<IBitacoraService, BitacoraService>();
+
+// Agregamos las inyecciones de los dao
+builder.Services.AddSingleton<ProductsDao>();
 
 // Agregamos CORS para permitir solicitudes desde el frontend
 builder.Services.AddCors(options =>
@@ -25,7 +33,9 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    app.MapOpenApi();
+    //app.MapOpenApi();
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
 
 app.UseHttpsRedirection();
