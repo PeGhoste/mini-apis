@@ -1,0 +1,9 @@
+C:\Users\josep\OneDrive\Documentos\Escritorio\mini-apis\Inventariado\Inventariado\obj\Debug\net9.0\Inventariado.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documentos\Escritorio\mini-apis\Inventariado\Inventariado\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\josep\OneDrive\Documentos\Escritorio\mini-apis\Inventariado\Inventariado\obj\Debug\net9.0\Inventariado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\OneDrive\Documentos\Escritorio\mini-apis\Inventariado\Inventariado\obj\Debug\net9.0\Inventariado.AssemblyInfoInputs.cache
+C:\Users\josep\OneDrive\Documentos\Escritorio\mini-apis\Inventariado\Inventariado\obj\Debug\net9.0\Inventariado.AssemblyInfo.cs
+C:\Users\josep\OneDrive\Documentos\Escritorio\mini-apis\Inventariado\Inventariado\obj\Debug\net9.0\Inventariado.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documentos\Escritorio\mini-apis\Inventariado\Inventariado\obj\Debug\net9.0\Inventariado.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\josep\OneDrive\Documentos\Escritorio\mini-apis\Inventariado\Inventariado\obj\Debug\net9.0\Inventariado.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josep\OneDrive\Documentos\Escritorio\mini-apis\Inventariado\Inventariado\obj\Debug\net9.0\Inventariado.sourcelink.json
