@@ -1,30 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\josep\\Desktop\\mini-apis\\Inventariado\\",
+  "WorkspaceRootPath": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\Inventariado\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|c:\\users\\josep\\desktop\\mini-apis\\inventariado\\inventariado\\dao\\productsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\inventariado\\inventariado\\dao\\productsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|solutionrelative:inventariado\\dao\\productsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|c:\\users\\josep\\desktop\\mini-apis\\inventariado\\inventariado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|solutionrelative:inventariado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|c:\\users\\josep\\desktop\\mini-apis\\inventariado\\inventariado\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\inventariado\\inventariado\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|solutionrelative:inventariado\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|c:\\users\\josep\\desktop\\mini-apis\\inventariado\\inventariado\\inventariado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\inventariado\\inventariado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|solutionrelative:inventariado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\inventariado\\inventariado\\inventariado.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|solutionrelative:inventariado\\inventariado.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\inventariado\\inventariado\\models\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|solutionrelative:inventariado\\models\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\inventariado\\inventariado\\inventariado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|solutionrelative:inventariado\\inventariado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|c:\\users\\josep\\desktop\\mini-apis\\inventariado\\inventariado\\services\\bitacoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\inventariado\\inventariado\\services\\bitacoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|solutionrelative:inventariado\\services\\bitacoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|c:\\users\\josep\\desktop\\mini-apis\\inventariado\\inventariado\\models\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF4F20EE-C3AC-1A1B-F214-D8361C14529F}|Inventariado\\Inventariado.csproj|solutionrelative:inventariado\\models\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,34 +38,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Inventariado",
-              "DocumentMoniker": "C:\\Users\\josep\\Desktop\\mini-apis\\Inventariado\\Inventariado\\Inventariado.csproj",
-              "RelativeDocumentMoniker": "Inventariado\\Inventariado.csproj",
-              "ToolTip": "C:\\Users\\josep\\Desktop\\mini-apis\\Inventariado\\Inventariado\\Inventariado.csproj",
-              "RelativeToolTip": "Inventariado\\Inventariado.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-04T22:45:46.989Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Inventariado.http",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\Inventariado\\Inventariado\\Inventariado.http",
+              "RelativeDocumentMoniker": "Inventariado\\Inventariado.http",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\Inventariado\\Inventariado\\Inventariado.http",
+              "RelativeToolTip": "Inventariado\\Inventariado.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-05T00:26:45.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inventariado.csproj",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\Inventariado\\Inventariado\\Inventariado.csproj",
+              "RelativeDocumentMoniker": "Inventariado\\Inventariado.csproj",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\Inventariado\\Inventariado\\Inventariado.csproj",
+              "RelativeToolTip": "Inventariado\\Inventariado.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-04T22:45:46.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\josep\\Desktop\\mini-apis\\Inventariado\\Inventariado\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\Inventariado\\Inventariado\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Inventariado\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\josep\\Desktop\\mini-apis\\Inventariado\\Inventariado\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\Inventariado\\Inventariado\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Inventariado\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-04T19:02:00.814Z",
               "EditorCaption": ""
@@ -70,50 +86,49 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductsDao.cs",
-              "DocumentMoniker": "C:\\Users\\josep\\Desktop\\mini-apis\\Inventariado\\Inventariado\\DAO\\ProductsDao.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\Inventariado\\Inventariado\\DAO\\ProductsDao.cs",
               "RelativeDocumentMoniker": "Inventariado\\DAO\\ProductsDao.cs",
-              "ToolTip": "C:\\Users\\josep\\Desktop\\mini-apis\\Inventariado\\Inventariado\\DAO\\ProductsDao.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\Inventariado\\Inventariado\\DAO\\ProductsDao.cs",
               "RelativeToolTip": "Inventariado\\DAO\\ProductsDao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwCIAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-04T01:37:54.18Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "BitacoraService.cs",
-              "DocumentMoniker": "C:\\Users\\josep\\Desktop\\mini-apis\\Inventariado\\Inventariado\\Services\\BitacoraService.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\Inventariado\\Inventariado\\Services\\BitacoraService.cs",
               "RelativeDocumentMoniker": "Inventariado\\Services\\BitacoraService.cs",
-              "ToolTip": "C:\\Users\\josep\\Desktop\\mini-apis\\Inventariado\\Inventariado\\Services\\BitacoraService.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\Inventariado\\Inventariado\\Services\\BitacoraService.cs",
               "RelativeToolTip": "Inventariado\\Services\\BitacoraService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T01:22:53.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T01:22:53.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ProductsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\josep\\Desktop\\mini-apis\\Inventariado\\Inventariado\\Models\\ProductsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\Inventariado\\Inventariado\\Models\\ProductsViewModel.cs",
               "RelativeDocumentMoniker": "Inventariado\\Models\\ProductsViewModel.cs",
-              "ToolTip": "C:\\Users\\josep\\Desktop\\mini-apis\\Inventariado\\Inventariado\\Models\\ProductsViewModel.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\Inventariado\\Inventariado\\Models\\ProductsViewModel.cs",
               "RelativeToolTip": "Inventariado\\Models\\ProductsViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-04T01:18:02.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\josep\\Desktop\\mini-apis\\Inventariado\\Inventariado\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\Inventariado\\Inventariado\\Program.cs",
               "RelativeDocumentMoniker": "Inventariado\\Program.cs",
-              "ToolTip": "C:\\Users\\josep\\Desktop\\mini-apis\\Inventariado\\Inventariado\\Program.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\Inventariado\\Inventariado\\Program.cs",
               "RelativeToolTip": "Inventariado\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAwwB4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-04T01:12:02.256Z",
               "EditorCaption": ""

@@ -1,6 +1,6 @@
 @Inventariado_HostAddress = http://localhost:5018
 
-GET {{Inventariado_HostAddress}}/weatherforecast/
+GET {{Inventariado_HostAddress}}/api/products/
 Accept: application/json
 
 ###

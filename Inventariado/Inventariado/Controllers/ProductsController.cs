@@ -30,8 +30,8 @@ namespace Inventariado.Controllers
             return products;
         }
 
-        // GET: Products
-        [HttpGet("{id}")]
+        // GET: ProductsController/Product
+        [HttpGet("{id}")] // api/products/product/1
         public ActionResult<List<ProductsViewModel>> Product(int id)
         {
             var product = _productsDao.ObtenerProducto(id);
@@ -39,6 +39,36 @@ namespace Inventariado.Controllers
             return product;
         }
 
+
+        // POST: ProductsController/CreateProduct
+        [HttpPost] // api/products/createproduct
+        [ValidateAntiForgeryToken]
+        public ActionResult CreateProduct(ProductsViewModel product)
+        {
+             _productsDao.AgregarProducto(product);
+
+            return Ok();
+        }
+
+        // PUT: ProductsController/UpdateProduct
+        [HttpPut] // api/products/updateproduct
+        [ValidateAntiForgeryToken]
+        public ActionResult UpdateProduct(ProductsViewModel product)
+        {
+             _productsDao.ActualizarProducto(product);
+
+            return Ok();
+        }
+
+        // DELETE: ProductsController/DeleteProduct
+        [HttpDelete] // api/products/deleteproduct
+        [ValidateAntiForgeryToken]
+        public ActionResult DeleteProduct(int id)
+        {
+             _productsDao.EliminarProducto(id);
+
+            return Ok();
+        }
 
 
     }
