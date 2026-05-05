@@ -1,0 +1,6 @@
+@login_basico_HostAddress = http://localhost:5108
+
+GET {{login_basico_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
