@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clientes</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="div-container">
+        <h1>Gestión de Clientes</h1>
+        <input id="idCliente" placeholder="ID del cliente (solo para buscar, actualizar o eliminar)">
+        <input id="nombres" placeholder="Nombre">
+        <input id="apellidos" placeholder="Apellido">
+        <input id="edad" placeholder="Edad">    
+        <select id="estado" placeholder="Estado (activo/inactivo)">
+            <option value="Activo">Activo</option>  
+            <option value="Inactivo">Inactivo</option>
+        </select>
+
+        <div>
+            <h2>Acciones</h2>
+            <button id="btnMostrar">Mostrar Clientes</button>
+			<button id="btnCliente">Buscar Cliente</button>
+            <button id="btnCrear">Crear Cliente</button>
+            <button id="btnActualizar">Actualizar Cliente</button>
+            <button id="btnEliminar">Eliminar Cliente</button>
+        </div>	
+
+        <div class="div-table">
+            <table>
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Nombre</th>
+                        <th>Apellido</th>
+                        <th>Edad</th>
+                        <th>Estado</th>
+                    </tr>
+                </thead>
+                <tbody id="respClientes">
+
+                </tbody>
+            </table>
+
+        </div>
+
+
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

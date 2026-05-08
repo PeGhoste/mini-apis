@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaDeFuego\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{101A3070-C986-44F0-9517-5118D74EB02F}|PruebaDeFuego\\PruebaDeFuego.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\pruebadefuego\\pruebadefuego\\dao\\usuariosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101A3070-C986-44F0-9517-5118D74EB02F}|PruebaDeFuego\\PruebaDeFuego.csproj|solutionrelative:pruebadefuego\\dao\\usuariosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101A3070-C986-44F0-9517-5118D74EB02F}|PruebaDeFuego\\PruebaDeFuego.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\pruebadefuego\\pruebadefuego\\models\\usuariosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101A3070-C986-44F0-9517-5118D74EB02F}|PruebaDeFuego\\PruebaDeFuego.csproj|solutionrelative:pruebadefuego\\models\\usuariosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101A3070-C986-44F0-9517-5118D74EB02F}|PruebaDeFuego\\PruebaDeFuego.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\pruebadefuego\\pruebadefuego\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101A3070-C986-44F0-9517-5118D74EB02F}|PruebaDeFuego\\PruebaDeFuego.csproj|solutionrelative:pruebadefuego\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101A3070-C986-44F0-9517-5118D74EB02F}|PruebaDeFuego\\PruebaDeFuego.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\pruebadefuego\\pruebadefuego\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{101A3070-C986-44F0-9517-5118D74EB02F}|PruebaDeFuego\\PruebaDeFuego.csproj|solutionrelative:pruebadefuego\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101A3070-C986-44F0-9517-5118D74EB02F}|PruebaDeFuego\\PruebaDeFuego.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\pruebadefuego\\pruebadefuego\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101A3070-C986-44F0-9517-5118D74EB02F}|PruebaDeFuego\\PruebaDeFuego.csproj|solutionrelative:pruebadefuego\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101A3070-C986-44F0-9517-5118D74EB02F}|PruebaDeFuego\\PruebaDeFuego.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\pruebadefuego\\pruebadefuego\\pruebadefuego.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{101A3070-C986-44F0-9517-5118D74EB02F}|PruebaDeFuego\\PruebaDeFuego.csproj|solutionrelative:pruebadefuego\\pruebadefuego.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosDao.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaDeFuego\\PruebaDeFuego\\DAO\\UsuariosDao.cs",
+              "RelativeDocumentMoniker": "PruebaDeFuego\\DAO\\UsuariosDao.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaDeFuego\\PruebaDeFuego\\DAO\\UsuariosDao.cs",
+              "RelativeToolTip": "PruebaDeFuego\\DAO\\UsuariosDao.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAtwDQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:27:57.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaDeFuego\\PruebaDeFuego\\Models\\UsuariosViewModel.cs",
+              "RelativeDocumentMoniker": "PruebaDeFuego\\Models\\UsuariosViewModel.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaDeFuego\\PruebaDeFuego\\Models\\UsuariosViewModel.cs",
+              "RelativeToolTip": "PruebaDeFuego\\Models\\UsuariosViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:25:09.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaDeFuego\\PruebaDeFuego\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PruebaDeFuego\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaDeFuego\\PruebaDeFuego\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PruebaDeFuego\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:23:34.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PruebaDeFuego",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaDeFuego\\PruebaDeFuego\\PruebaDeFuego.csproj",
+              "RelativeDocumentMoniker": "PruebaDeFuego\\PruebaDeFuego.csproj",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaDeFuego\\PruebaDeFuego\\PruebaDeFuego.csproj",
+              "RelativeToolTip": "PruebaDeFuego\\PruebaDeFuego.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-08T09:23:13.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaDeFuego\\PruebaDeFuego\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaDeFuego\\Program.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaDeFuego\\PruebaDeFuego\\Program.cs",
+              "RelativeToolTip": "PruebaDeFuego\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:22:08.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaDeFuego\\PruebaDeFuego\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaDeFuego\\appsettings.json",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaDeFuego\\PruebaDeFuego\\appsettings.json",
+              "RelativeToolTip": "PruebaDeFuego\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T09:22:07.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BancoEmpanadas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ac11473abd8ab3167eeff77c41e81dcd25acbb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77ba9ec732210f414472939ab6e152e583f363df")]
 [assembly: System.Reflection.AssemblyProductAttribute("BancoEmpanadas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BancoEmpanadas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
