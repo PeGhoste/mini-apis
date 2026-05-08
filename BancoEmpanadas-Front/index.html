@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banco Empanadas</title>
+</head>
+<body>
+    <h1>Bienvenido a Banco Empanadas</h1>
+    <p>Tu lugar de confianza para las mejores empanadas.</p>
+
+    <div>
+        <input type="number" min="0" id="idCuenta" placeholder="Buscar cuentas...">
+        <input type="text" id="numeroCuenta" placeholder="Número de cuenta">
+        <input type="text" id="tipoCuenta" placeholder="Tipo de cuenta">
+        <input type="number" min="0" id="saldo" placeholder="Saldo">
+        <input type="number" min="0" id="idCliente" placeholder="ID para actualizar/eliminar">
+
+        <div>
+            <button id="btnCrear">Crear</button>
+            <button id="btnCuenta">Consultar Cuenta</button>
+        </div>    
+    </div>
+
+    <div>
+        <h2>Listado de Cuentas</h2>
+        <button id="btnRefrescar">Refrescar</button>
+        <table id="lista" border="1">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Tipo</th>
+                    <th>Número de Cuenta</th>
+                    <th>Saldo</th>
+                </tr>
+            </thead>
+            <tbody id="cuerpoLista"></tbody>
+        </table>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

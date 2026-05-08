@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\login-basico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{723C0F7D-7759-45B0-AAB4-23F55B255A6E}|login-basico\\login-basico.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\login-basico\\login-basico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{723C0F7D-7759-45B0-AAB4-23F55B255A6E}|login-basico\\login-basico.csproj|solutionrelative:login-basico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E35AEB3D-6D4B-1295-91AB-CA01AFC584EB}|login-basico\\login-basico.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\login-basico\\login-basico\\dao\\usersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35AEB3D-6D4B-1295-91AB-CA01AFC584EB}|login-basico\\login-basico.csproj|solutionrelative:login-basico\\dao\\usersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{723C0F7D-7759-45B0-AAB4-23F55B255A6E}|login-basico\\login-basico.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\login-basico\\login-basico\\login-basico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{723C0F7D-7759-45B0-AAB4-23F55B255A6E}|login-basico\\login-basico.csproj|solutionrelative:login-basico\\login-basico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E35AEB3D-6D4B-1295-91AB-CA01AFC584EB}|login-basico\\login-basico.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\login-basico\\login-basico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35AEB3D-6D4B-1295-91AB-CA01AFC584EB}|login-basico\\login-basico.csproj|solutionrelative:login-basico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{723C0F7D-7759-45B0-AAB4-23F55B255A6E}|login-basico\\login-basico.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\login-basico\\login-basico\\dao\\usersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{723C0F7D-7759-45B0-AAB4-23F55B255A6E}|login-basico\\login-basico.csproj|solutionrelative:login-basico\\dao\\usersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E35AEB3D-6D4B-1295-91AB-CA01AFC584EB}|login-basico\\login-basico.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\login-basico\\login-basico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E35AEB3D-6D4B-1295-91AB-CA01AFC584EB}|login-basico\\login-basico.csproj|solutionrelative:login-basico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{723C0F7D-7759-45B0-AAB4-23F55B255A6E}|login-basico\\login-basico.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\login-basico\\login-basico\\models\\usersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{723C0F7D-7759-45B0-AAB4-23F55B255A6E}|login-basico\\login-basico.csproj|solutionrelative:login-basico\\models\\usersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E35AEB3D-6D4B-1295-91AB-CA01AFC584EB}|login-basico\\login-basico.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\login-basico\\login-basico\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35AEB3D-6D4B-1295-91AB-CA01AFC584EB}|login-basico\\login-basico.csproj|solutionrelative:login-basico\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{723C0F7D-7759-45B0-AAB4-23F55B255A6E}|login-basico\\login-basico.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\login-basico\\login-basico\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{723C0F7D-7759-45B0-AAB4-23F55B255A6E}|login-basico\\login-basico.csproj|solutionrelative:login-basico\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E35AEB3D-6D4B-1295-91AB-CA01AFC584EB}|login-basico\\login-basico.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\login-basico\\login-basico\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35AEB3D-6D4B-1295-91AB-CA01AFC584EB}|login-basico\\login-basico.csproj|solutionrelative:login-basico\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35AEB3D-6D4B-1295-91AB-CA01AFC584EB}|login-basico\\login-basico.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\login-basico\\login-basico\\models\\usersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35AEB3D-6D4B-1295-91AB-CA01AFC584EB}|login-basico\\login-basico.csproj|solutionrelative:login-basico\\models\\usersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35AEB3D-6D4B-1295-91AB-CA01AFC584EB}|login-basico\\login-basico.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\login-basico\\login-basico\\dto\\usersdtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35AEB3D-6D4B-1295-91AB-CA01AFC584EB}|login-basico\\login-basico.csproj|solutionrelative:login-basico\\dto\\usersdtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,63 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "login-basico",
-              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\login-basico\\login-basico\\login-basico.csproj",
-              "RelativeDocumentMoniker": "login-basico\\login-basico.csproj",
-              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\login-basico\\login-basico\\login-basico.csproj",
-              "RelativeToolTip": "login-basico\\login-basico.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-05T03:30:59.76Z",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\login-basico\\login-basico\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "login-basico\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\login-basico\\login-basico\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "login-basico\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T01:51:29.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UsersDao.cs",
               "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\login-basico\\login-basico\\DAO\\UsersDao.cs",
               "RelativeDocumentMoniker": "login-basico\\DAO\\UsersDao.cs",
               "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\login-basico\\login-basico\\DAO\\UsersDao.cs",
               "RelativeToolTip": "login-basico\\DAO\\UsersDao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T03:29:45.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsersViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\login-basico\\login-basico\\Models\\UsersViewModel.cs",
-              "RelativeDocumentMoniker": "login-basico\\Models\\UsersViewModel.cs",
-              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\login-basico\\login-basico\\Models\\UsersViewModel.cs",
-              "RelativeToolTip": "login-basico\\Models\\UsersViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T03:29:25.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\login-basico\\login-basico\\Program.cs",
               "RelativeDocumentMoniker": "login-basico\\Program.cs",
               "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\login-basico\\login-basico\\Program.cs",
               "RelativeToolTip": "login-basico\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T03:25:54.845Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
             },
             {
               "$type": "Document",
@@ -96,10 +91,46 @@
               "RelativeDocumentMoniker": "login-basico\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\login-basico\\login-basico\\Controllers\\LoginController.cs",
               "RelativeToolTip": "login-basico\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T03:22:07.187Z",
+              "WhenOpened": "2026-05-05T03:22:07.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersDtoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\login-basico\\login-basico\\DTO\\UsersDtoRequest.cs",
+              "RelativeDocumentMoniker": "login-basico\\DTO\\UsersDtoRequest.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\login-basico\\login-basico\\DTO\\UsersDtoRequest.cs",
+              "RelativeToolTip": "login-basico\\DTO\\UsersDtoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T02:45:39.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\login-basico\\login-basico\\appsettings.json",
+              "RelativeDocumentMoniker": "login-basico\\appsettings.json",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\login-basico\\login-basico\\appsettings.json",
+              "RelativeToolTip": "login-basico\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-07T01:59:09.726Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\login-basico\\login-basico\\Models\\UsersViewModel.cs",
+              "RelativeDocumentMoniker": "login-basico\\Models\\UsersViewModel.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\login-basico\\login-basico\\Models\\UsersViewModel.cs",
+              "RelativeToolTip": "login-basico\\Models\\UsersViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T03:29:25.943Z"
             }
           ]
         }

@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "BancoEmpanadas.Controllers.CuentasController",
+    "Method": "ObtenerCuentas",
+    "RelativePath": "api/Cuentas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BancoEmpanadas.Controllers.CuentasController",
+    "Method": "ObtenerCuenta",
+    "RelativePath": "api/Cuentas/{idCuenta}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCuenta",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BancoEmpanadas.Controllers.CuentasController",
+    "Method": "ActualizarCuenta",
+    "RelativePath": "api/Cuentas/actualizar/{idCuenta}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCuenta",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "cuenta",
+        "Type": "BancoEmpanadas.Models.CuentasViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BancoEmpanadas.Controllers.CuentasController",
+    "Method": "CrearCuenta",
+    "RelativePath": "api/Cuentas/crear",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cuenta",
+        "Type": "BancoEmpanadas.Models.CuentasViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BancoEmpanadas.Controllers.CuentasController",
+    "Method": "EliminarCuenta",
+    "RelativePath": "api/Cuentas/eliminar/{idCuenta}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCuenta",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

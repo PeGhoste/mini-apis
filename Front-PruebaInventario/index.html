@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestión de Categorías</title>
+</head>
+<body>
+    <h1>Gestión de Categorías</h1>
+    
+    <div>
+        <input type="number" min="0" id="id" placeholder="ID (para buscar/actualizar/eliminar)">
+        <input type="text" id="nombre" placeholder="Nombre de la categoría">
+        
+        <div>
+            <button id="btnCrear">Crear</button>
+            <button id="btnBuscar">Buscar</button>
+            <button id="btnActualizar">Actualizar</button>
+            <button id="btnEliminar">Eliminar</button>
+        </div>
+    </div>
+
+    <div id="mensaje"></div>
+
+    <div>
+        <h2>Listado de Categorías</h2>
+        <button id="btnMostrar">Refrescar Lista</button>
+        <div id="lista"></div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

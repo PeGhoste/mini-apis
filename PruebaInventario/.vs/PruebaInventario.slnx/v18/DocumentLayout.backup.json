@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9BE481-5D1A-4127-B7FD-EC769E3A54BC}|PruebaInventario\\PruebaInventario.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\pruebainventario\\pruebainventario\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9BE481-5D1A-4127-B7FD-EC769E3A54BC}|PruebaInventario\\PruebaInventario.csproj|solutionrelative:pruebainventario\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9BE481-5D1A-4127-B7FD-EC769E3A54BC}|PruebaInventario\\PruebaInventario.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\pruebainventario\\pruebainventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E9BE481-5D1A-4127-B7FD-EC769E3A54BC}|PruebaInventario\\PruebaInventario.csproj|solutionrelative:pruebainventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9BE481-5D1A-4127-B7FD-EC769E3A54BC}|PruebaInventario\\PruebaInventario.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\pruebainventario\\pruebainventario\\dao\\categoriasdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9BE481-5D1A-4127-B7FD-EC769E3A54BC}|PruebaInventario\\PruebaInventario.csproj|solutionrelative:pruebainventario\\dao\\categoriasdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9BE481-5D1A-4127-B7FD-EC769E3A54BC}|PruebaInventario\\PruebaInventario.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\pruebainventario\\pruebainventario\\dao\\productosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9BE481-5D1A-4127-B7FD-EC769E3A54BC}|PruebaInventario\\PruebaInventario.csproj|solutionrelative:pruebainventario\\dao\\productosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9BE481-5D1A-4127-B7FD-EC769E3A54BC}|PruebaInventario\\PruebaInventario.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\pruebainventario\\pruebainventario\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9BE481-5D1A-4127-B7FD-EC769E3A54BC}|PruebaInventario\\PruebaInventario.csproj|solutionrelative:pruebainventario\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9BE481-5D1A-4127-B7FD-EC769E3A54BC}|PruebaInventario\\PruebaInventario.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\pruebainventario\\pruebainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9BE481-5D1A-4127-B7FD-EC769E3A54BC}|PruebaInventario\\PruebaInventario.csproj|solutionrelative:pruebainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9BE481-5D1A-4127-B7FD-EC769E3A54BC}|PruebaInventario\\PruebaInventario.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\pruebainventario\\pruebainventario\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9BE481-5D1A-4127-B7FD-EC769E3A54BC}|PruebaInventario\\PruebaInventario.csproj|solutionrelative:pruebainventario\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9BE481-5D1A-4127-B7FD-EC769E3A54BC}|PruebaInventario\\PruebaInventario.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\pruebainventario\\pruebainventario\\models\\productosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9BE481-5D1A-4127-B7FD-EC769E3A54BC}|PruebaInventario\\PruebaInventario.csproj|solutionrelative:pruebainventario\\models\\productosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9BE481-5D1A-4127-B7FD-EC769E3A54BC}|PruebaInventario\\PruebaInventario.csproj|c:\\users\\josep\\onedrive\\documentos\\escritorio\\mini-apis\\pruebainventario\\pruebainventario\\models\\categoriasviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9BE481-5D1A-4127-B7FD-EC769E3A54BC}|PruebaInventario\\PruebaInventario.csproj|solutionrelative:pruebainventario\\models\\categoriasviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaInventario\\PruebaInventario\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "PruebaInventario\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaInventario\\PruebaInventario\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "PruebaInventario\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T17:34:20.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaInventario\\PruebaInventario\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "PruebaInventario\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaInventario\\PruebaInventario\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "PruebaInventario\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAIA6wEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T14:15:20.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaInventario\\PruebaInventario\\Models\\ProductosViewModel.cs",
+              "RelativeDocumentMoniker": "PruebaInventario\\Models\\ProductosViewModel.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaInventario\\PruebaInventario\\Models\\ProductosViewModel.cs",
+              "RelativeToolTip": "PruebaInventario\\Models\\ProductosViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:34:20.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriasDao.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaInventario\\PruebaInventario\\Dao\\CategoriasDao.cs",
+              "RelativeDocumentMoniker": "PruebaInventario\\Dao\\CategoriasDao.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaInventario\\PruebaInventario\\Dao\\CategoriasDao.cs",
+              "RelativeToolTip": "PruebaInventario\\Dao\\CategoriasDao.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:50:51.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductosDao.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaInventario\\PruebaInventario\\Dao\\ProductosDao.cs",
+              "RelativeDocumentMoniker": "PruebaInventario\\Dao\\ProductosDao.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaInventario\\PruebaInventario\\Dao\\ProductosDao.cs",
+              "RelativeToolTip": "PruebaInventario\\Dao\\ProductosDao.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:50:58.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaInventario\\PruebaInventario\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaInventario\\Program.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaInventario\\PruebaInventario\\Program.cs",
+              "RelativeToolTip": "PruebaInventario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:26:37.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaInventario\\PruebaInventario\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaInventario\\appsettings.json",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaInventario\\PruebaInventario\\appsettings.json",
+              "RelativeToolTip": "PruebaInventario\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-07T13:26:35.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriasViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaInventario\\PruebaInventario\\Models\\CategoriasViewModel.cs",
+              "RelativeDocumentMoniker": "PruebaInventario\\Models\\CategoriasViewModel.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaInventario\\PruebaInventario\\Models\\CategoriasViewModel.cs",
+              "RelativeToolTip": "PruebaInventario\\Models\\CategoriasViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:32:58.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaInventario\\PruebaInventario\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PruebaInventario\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\Escritorio\\mini-apis\\PruebaInventario\\PruebaInventario\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PruebaInventario\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:31:07.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
